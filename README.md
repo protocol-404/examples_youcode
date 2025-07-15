@@ -9,28 +9,28 @@ This document contains **10 categorized exercises** for each major concept in be
 ## 🔹 1. Variables (10 Exercises)
 
 1. Declare an integer variable and print its value.
-   **Input:** *None*
-   **Output:** `The value of a is 10`
+    **Input:** *None*
+    **Output:** `The value of a is 10`
 
 2. Store your age in a variable and print it.
-   **Input:** *None*
-   **Output:** `I am 22 years old.`
+    **Input:** *None*
+    **Output:** `I am 22 years old.`
 
 3. Swap the values of two variables.
-   **Input:** `a = 5, b = 10`
-   **Output:** `a = 10, b = 5`
+    **Input:** `a = 5, b = 10`
+    **Output:** `a = 10, b = 5`
 
 4. Calculate the area of a rectangle using width and height variables.
-   **Input:** `width = 4, height = 6`
-   **Output:** `Area = 24`
+    **Input:** `width = 4, height = 6`
+    **Output:** `Area = 24`
 
 5. Declare a `char` variable and print it.
-   **Input:** `letter = 'A'`
-   **Output:** `Character is A`
+    **Input:** `letter = 'A'`
+    **Output:** `Character is A`
 
 6. Create a float variable and assign a decimal value.
-   **Input:** `price = 10.5`
-   **Output:** `Price is 10.50`
+    **Input:** `price = 10.5`
+    **Output:** `Price is 10.50`
 
 7. Assign values to three variables and print their sum.
    **Input:** `a = 2, b = 3, c = 5`
