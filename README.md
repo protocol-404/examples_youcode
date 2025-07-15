@@ -13,186 +13,186 @@ This document contains **10 categorized exercises** for each major concept in be
 - **Output:** `The value of a is 10`
 
 2. Store your age in a variable and print it.
-    **Input:** *None*
-    **Output:** `I am 22 years old.`
+- **Input:** *None*
+- **Output:** `I am 22 years old.`
 
 3. Swap the values of two variables.
-    **Input:** `a = 5, b = 10`
-    **Output:** `a = 10, b = 5`
+- **Input:** `a = 5, b = 10`
+- **Output:** `a = 10, b = 5`
 
 4. Calculate the area of a rectangle using width and height variables.
-    **Input:** `width = 4, height = 6`
-    **Output:** `Area = 24`
+- **Input:** `width = 4, height = 6`
+- **Output:** `Area = 24`
 
 5. Declare a `char` variable and print it.
-    **Input:** `letter = 'A'`
-    **Output:** `Character is A`
+- **Input:** `letter = 'A'`
+- **Output:** `Character is A`
 
 6. Create a float variable and assign a decimal value.
-    **Input:** `price = 10.5`
-    **Output:** `Price is 10.50`
+- **Input:** `price = 10.5`
+- **Output:** `Price is 10.50`
 
 7. Assign values to three variables and print their sum.
-   **Input:** `a = 2, b = 3, c = 5`
-   **Output:** `Sum = 10`
+- **Input:** `a = 2, b = 3, c = 5`
+- **Output:** `Sum = 10`
 
 8. Modify a variable using another variable's value.
-   **Input:** `a = 4, b = a * 2`
-   **Output:** `b = 8`
+- **Input:** `a = 4, b = a * 2`
+- **Output:** `b = 8`
 
 9. Declare a constant using `#define` and print it.
-   **Input:** `#define PI 3.14`
-   **Output:** `PI = 3.14`
+- **Input:** `#define PI 3.14`
+- **Output:** `PI = 3.14`
 
 10. Create variables of all 4 main types and print them.
-    **Input:** `int=1, float=1.5, char='C', double=3.14159`
-    **Output:** `int: 1, float: 1.5, char: C, double: 3.141590`
+- **Input:** `int=1, float=1.5, char='C', double=3.14159`
+- **Output:** `int: 1, float: 1.5, char: C, double: 3.141590`
 
 ---
 
 ## 🔹 2. Data Types (10 Exercises)
 
 1. Print the size of each data type using `sizeof()`.
-   **Output:** `int: 4 bytes, float: 4 bytes, double: 8 bytes...`
+- **Output:** `int: 4 bytes, float: 4 bytes, double: 8 bytes...`
 
 2. Declare and assign values to different types.
-   **Input:** `int=5, float=1.1, char='z'...`
-   **Output:** `Values printed`
+- **Input:** `int=5, float=1.1, char='z'...`
+- **Output:** `Values printed`
 
 3. Convert an `int` to a `float` and print.
-   **Input:** `int=5`
-   **Output:** `float=5.000000`
+- **Input:** `int=5`
+- **Output:** `float=5.000000`
 
 4. Use a `char` variable to store a symbol and print it.
-   **Input:** `char='$'`
-   **Output:** `Symbol: $`
+- **Input:** `char='$'`
+- **Output:** `Symbol: $`
 
 5. Use a `float` variable and print it with 2 decimal places.
-   **Input:** `float=3.1459`
-   **Output:** `3.15`
+- **Input:** `float=3.1459`
+- **Output:** `3.15`
 
 6. Type casting from `float` to `int`.
-   **Input:** `float=5.9`
-   **Output:** `int=5`
+- **Input:** `float=5.9`
+- **Output:** `int=5`
 
 7. Overflow demo with `char`.
-   **Input:** `char=300`
-   **Output:** *unexpected value (e.g., -56 depending on system)*
+- **Input:** `char=300`
+- **Output:** *unexpected value (e.g., -56 depending on system)*
 
 8. Print ASCII value of a character.
-   **Input:** `char='A'`
-   **Output:** `65`
+- **Input:** `char='A'`
+- **Output:** `65`
 
 9. Add an `int` and a `float`, store in `double`.
-   **Input:** `int=3, float=2.5`
-   **Output:** `Result=5.5`
+- **Input:** `int=3, float=2.5`
+- **Output:** `Result=5.5`
 
 10. Display limits using `limits.h`.
-    **Output:** `INT_MAX = 2147483647...`
+- **Output:** `INT_MAX = 2147483647...`
 
 ---
 
 ## 🔹 3. Conditions (if/else) (10 Exercises)
 
 1. Check if a number is positive or negative.
-   **Input:** `n = -3`
-   **Output:** `Negative`
+- **Input:** `n = -3`
+- **Output:** `Negative`
 
 2. Check even or odd.
-   **Input:** `n = 4`
-   **Output:** `Even`
+- **Input:** `n = 4`
+- **Output:** `Even`
 
 3. Compare two numbers.
-   **Input:** `a = 5, b = 2`
-   **Output:** `a is greater`
+- **Input:** `a = 5, b = 2`
+- **Output:** `a is greater`
 
 4. Maximum of 3 numbers.
-   **Input:** `3, 9, 7`
-   **Output:** `Max = 9`
+- **Input:** `3, 9, 7`
+- **Output:** `Max = 9`
 
 5. Vowel or consonant.
-   **Input:** `ch = 'e'`
-   **Output:** `Vowel`
+- **Input:** `ch = 'e'`
+- **Output:** `Vowel`
 
 6. Divisible by 5 and 3.
-   **Input:** `n = 15`
-   **Output:** `Yes`
+- **Input:** `n = 15`
+- **Output:** `Yes`
 
 7. Age group.
-   **Input:** `age = 16`
-   **Output:** `Teenager`
+- **Input:** `age = 16`
+- **Output:** `Teenager`
 
 8. Leap year.
-   **Input:** `2024`
-   **Output:** `Leap year`
+- **Input:** `2024`
+- **Output:** `Leap year`
 
 9. Score to grade.
-   **Input:** `score = 78`
-   **Output:** `Grade = B`
+- **Input:** `score = 78`
+- **Output:** `Grade = B`
 
 10. Login check.
-    **Input:** `username: admin, password: 1234`
-    **Output:** `Access granted`
+- **Input:** `username: admin, password: 1234`
+- **Output:** `Access granted`
 
 ---
 
 ## 🔹 4. Operators (10 Exercises)
 
 1. Add/subtract/multiply/divide two numbers.
-   **Input:** `a=5, b=2`
-   **Output:** `Sum=7, Diff=3, Mul=10, Div=2`
+- **Input:** `a=5, b=2`
+- **Output:** `Sum=7, Diff=3, Mul=10, Div=2`
 
 2. Modulo operation.
-   **Input:** `7 % 3`
-   **Output:** `1`
+- **Input:** `7 % 3`
+- **Output:** `1`
 
 3. Logical AND.
-   **Input:** `n = 7`
-   **Output:** `Yes (between 5 and 10)`
+- **Input:** `n = 7`
+- **Output:** `Yes (between 5 and 10)`
 
 4. Logical OR.
-   **Input:** `n = 105`
-   **Output:** `True`
+- **Input:** `n = 105`
+- **Output:** `True`
 
 5. NOT example.
-   **Input:** `flag = 0`
-   **Output:** `flag is false`
+- **Input:** `flag = 0`
+- **Output:** `flag is false`
 
 6. Increment/decrement.
-   **Input:** `n = 5`
-   **Output:** `++n = 6, --n = 4`
+- **Input:** `n = 5`
+- **Output:** `++n = 6, --n = 4`
 
 7. Compound assignment.
-   **Input:** `x = 10, x += 5`
-   **Output:** `x = 15`
+- **Input:** `x = 10, x += 5`
+- **Output:** `x = 15`
 
 8. Relational operators.
-   **Input:** `a = 3, b = 7`
-   **Output:** `a < b, a != b, etc.`
+- **Input:** `a = 3, b = 7`
+- **Output:** `a < b, a != b, etc.`
 
 9. Basic calculator.
-   **Input:** `a = 3, b = 2, op = +`
-   **Output:** `5`
+- **Input:** `a = 3, b = 2, op = +`
+- **Output:** `5`
 
 10. Divisible by both 3 and 7.
-    **Input:** `n = 21`
-    **Output:** `Yes`
+- **Input:** `n = 21`
+- **Output:** `Yes`
 
 ---
 
 ## 🔹 5. Switch (10 Exercises)
 
 1. Weekday name from number.
-   **Input:** `3`
-   **Output:** `Wednesday`
+- **Input:** `3`
+- **Output:** `Wednesday`
 
 2. Calculator using switch.
-   **Input:** `a=4, b=2, op='*'`
-   **Output:** `8`
+- **Input:** `a=4, b=2, op='*'`
+- **Output:** `8`
 
 3. Grade to message.
-   **Input:** `grade = 'A'`
-   **Output:** `Excellent`
+- **Input:** `grade = 'A'`
+- **Output:** `Excellent`
 
 4. Month to season.
    **Input:** `month = 12`
@@ -412,4 +412,3 @@ This document contains **10 categorized exercises** for each major concept in be
 - Optimize your solutions for better performance
 - Use proper variable naming and code organization
 - Test thoroughly with various input combinations
-
