@@ -9,8 +9,8 @@ This document contains **10 categorized exercises** for each major concept in be
 ## 🔹 1. Variables (10 Exercises)
 
 1. Declare an integer variable and print its value.
-    **Input:** *None*
-    **Output:** `The value of a is 10`
+- **Input:** *None*
+- **Output:** `The value of a is 10`
 
 2. Store your age in a variable and print it.
     **Input:** *None*
